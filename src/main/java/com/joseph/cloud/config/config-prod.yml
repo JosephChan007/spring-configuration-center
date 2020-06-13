@@ -1,0 +1,3 @@
+config:
+  info: "production config info"
+  switch: 3

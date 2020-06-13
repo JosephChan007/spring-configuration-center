@@ -1,0 +1,3 @@
+config:
+  info: "dev config info"
+  switch: 1
